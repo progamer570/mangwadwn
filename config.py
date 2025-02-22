@@ -4,7 +4,7 @@ env_vars = {
   # Get From my.telegram.org
   "API_ID": "20457610",
   #Get For @BotFather
-  "BOT_TOKEN": "8083329920:AAEoQNvl-7cnXq7dQ2shY2qRlLFrKiawlCo", 
+  "BOT_TOKEN": "7738917327:AAFFgAZ-Sfyhz1Hve7Chdr9D-XLyqXlq0xw", 
   # Get For tembo.io
   "DATABASE_URL_PRIMARY": "postgresql://postgres:z8VSFBCFcEQ5PXP9@remotely-profound-threadfin.data-1.use1.tembo.io:5432/postgres",
   # Logs Channel Username Without @
