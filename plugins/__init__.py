@@ -19,4 +19,4 @@ from .mangasee import MangaSeeClient
 from .manhwa18 import Manhwa18Client
 from .manga18fx import Manga18fxClient
 from .manhwahub import ManhwahubClient
-from .omegascan import OmegaScansClient
+from .omgeascans import OmgeaScansClient
